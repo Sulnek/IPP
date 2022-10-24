@@ -1,0 +1,4 @@
+/home/franio/IPP-fs438728/release/CMakeFiles/rebuild_cache.dir
+/home/franio/IPP-fs438728/release/CMakeFiles/edit_cache.dir
+/home/franio/IPP-fs438728/release/CMakeFiles/doc.dir
+/home/franio/IPP-fs438728/release/CMakeFiles/phone_forward.dir
